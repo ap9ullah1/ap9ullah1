@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Abdullah Youssef 👋
 
-<!--
-**ap9ullah1/ap9ullah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer · AI Automation · n8n**
 
-Here are some ideas to get you started:
+I build fast, scalable web and mobile products, and automate the workflows behind them. 4+ years shipping software for clients across the US and Saudi Arabia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- **Web:** Next.js, React, Node.js, TypeScript, PostgreSQL
+- **Mobile:** React Native, Expo, Socket.io
+- **Automation & AI:** n8n, OpenAI, WhatsApp API, Webhooks
+- **DevOps:** Docker, Linux, Nginx, GitHub Actions, VPS
+
+### Recent projects
+- [Trust Medical Transportation](https://trustmtrans.com/) — NEMT platform with real-time driver/patient tracking
+- [Almida Insure](https://almidainsure.com/) — Insurance platform with automated workflows
+- [MedSupply SA](https://medsupplysa.com/ar) — Medical supply e-commerce with Arabic RTL support
+- [Mansour Bikes](https://mansourbike.store/) — E-commerce store for a bike retailer
+- [Nova Gates](https://www.novagates.com/en) — Corporate technology platform
+
+### Let's connect
+- Website: https://abdullahyoussef.com
+- LinkedIn: https://www.linkedin.com/in/ap9ullah
+- GitLab: https://gitlab.com/ap9ullah
+- Email: ap9ullah@gmail.com
+
+Open to freelance projects and full-time opportunities.
