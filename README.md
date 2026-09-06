@@ -1,6 +1,6 @@
 ## Hi, I'm Abdullah Youssef 👋
 
-**Full Stack Developer · AI Automation · n8n**
+**Full Stack Developer · AI Automation **
 
 I build fast, scalable web and mobile products, and automate the workflows behind them. 4+ years shipping software for clients across the US and Saudi Arabia.
 
