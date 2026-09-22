@@ -1,0 +1,10 @@
+{
+  "name": "profile-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static profile site rendered from README.md",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
