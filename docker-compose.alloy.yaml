@@ -1,0 +1,12 @@
+services:
+  site:
+    image: node:22-bookworm
+    working_dir: /workspace/site
+    network_mode: host
+    environment:
+      HOST: 0.0.0.0
+      PORT: "3000"
+      IS_ALLOY: ${IS_ALLOY:-false}
+    volumes:
+      - .:/workspace
+    command: bash -lc "npm run dev"
