@@ -21,7 +21,7 @@ body {
 }
 
 .page {
-  max-width: 840px;
+  max-width: 1040px;
   margin: 0 auto;
   padding: 64px 24px 80px;
   display: flex;
@@ -30,9 +30,38 @@ body {
 }
 
 .hero {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  align-items: center;
+  gap: 24px;
+  min-height: 420px;
+}
+
+.hero-copy {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 16px;
+}
+
+.hero-sphere {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  cursor: grab;
+  touch-action: none;
+}
+
+.hero-sphere:active {
+  cursor: grabbing;
+}
+
+@media (max-width: 760px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  .hero-sphere {
+    max-width: 360px;
+    margin: 0 auto;
+  }
 }
 
 .eyebrow {
@@ -72,8 +101,20 @@ h2 {
 
 .stack-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+}
+
+@media (max-width: 900px) {
+  .stack-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 520px) {
+  .stack-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .card {

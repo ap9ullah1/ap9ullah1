@@ -9,13 +9,20 @@
   <body>
     <main class="page">
       <header class="hero">
-        <p class="eyebrow">Full Stack Developer · AI Automation</p>
-        <h1>Hi, I'm Abdullah Youssef 👋</h1>
-        <p class="lede">
-          I build fast, scalable web and mobile products, and automate the
-          workflows behind them. 4+ years shipping software for clients across
-          the US and Saudi Arabia.
-        </p>
+        <div class="hero-copy">
+          <p class="eyebrow">Full Stack Developer · AI Automation</p>
+          <h1>Hi, I'm Abdullah Youssef 👋</h1>
+          <p class="lede">
+            I build fast, scalable web and mobile products, and automate the
+            workflows behind them. 4+ years shipping software for clients across
+            the US and Saudi Arabia.
+          </p>
+          <div class="links">
+            <a href="#projects">View projects</a>
+            <a href="mailto:ap9ullah@gmail.com">Get in touch</a>
+          </div>
+        </div>
+        <canvas id="sphere" class="hero-sphere" aria-label="Interactive particle sphere"></canvas>
       </header>
 
       <section class="section">
@@ -40,7 +47,7 @@
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" id="projects">
         <h2>Recent projects</h2>
         <ul class="projects">
           <li>
@@ -79,5 +86,6 @@
         </p>
       </section>
     </main>
+    <script src="/sphere.js"></script>
   </body>
 </html>
