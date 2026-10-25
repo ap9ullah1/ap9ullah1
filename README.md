@@ -1,26 +1,43 @@
-## Hi, I'm Abdullah Youssef 👋
+<h align="center">
 
-**Full Stack Developer · AI Automation **
+# Abdullah Youssef
 
-I build fast, scalable web and mobile products, and automate the workflows behind them. 4+ years shipping software for clients across the US and Saudi Arabia.
+### **Founder of SnabCode | Full-Stack Software Engineer & AI Automation Expert**
 
-### What I work with
-- **Web:** Next.js, React, Node.js, TypeScript, PostgreSQL
-- **Mobile:** React Native, Expo, Socket.io
-- **Automation & AI:** n8n, OpenAI, WhatsApp API, Webhooks
-- **DevOps:** Docker, Linux, Nginx, GitHub Actions, VPS
+[SnabCode](https://snabcode.com) is the software agency I founded, building production-grade web platforms, mobile apps, and automated workflows for businesses across the US, Gulf, and Egypt.
 
-### Recent projects
-- [Trust Medical Transportation](https://trustmtrans.com/) — NEMT platform with real-time driver/patient tracking
-- [Almida Insure](https://almidainsure.com/) — Insurance platform with automated workflows
-- [MedSupply SA](https://medsupplysa.com/ar) — Medical supply e-commerce with Arabic RTL support
-- [Mansour Bikes](https://mansourbike.store/) — E-commerce store for a bike retailer
-- [Nova Gates](https://www.novagates.com/en) — Corporate technology platform
+Website: [founder.snabcode.com](https://founder.snabcode.com) | Agency: [snabcode.com](https://snabcode.com)
 
-### Let's connect
-- Website: https://abdullahyoussef.com
-- LinkedIn: https://www.linkedin.com/in/ap9ullah
-- GitLab: https://gitlab.com/ap9ullah
-- Email: ap9ullah@gmail.com
+---
 
-Open to freelance projects and full-time opportunities.
+## What I Work With
+
+* **Frontend & Web:** React, Next.js, TypeScript, Tailwind CSS, HTML5/CSS3
+* **Mobile:** React Native, Expo, Socket.io
+* **Backend & Databases:** Node.js, Express, Python, PostgreSQL, MongoDB, Prisma ORM
+* **AI & Automation:** n8n, OpenAI integrations, WhatsApp API, custom LLM agents & webhooks
+* **DevOps & Infrastructure:** Docker, Linux (Ubuntu/RedHat), Nginx, GitHub Actions, VPS deployment
+
+---
+
+## Recent Agency Projects (SnabCode)
+
+* **Trust Medical Transportation (TMT)** — NEMT SaaS platform featuring real-time driver/patient tracking maps and automated dispatch workflows.
+* **KeyC.ai** — AI credential management system featuring hard budget limits, live cost tracking, and one-click emergency kill switches.
+* **RCode.ai** — Specialized AI release engineering assistant tuned directly for R developers with saved session states and secure accounts.
+* **MedSupply SA** — Arabic-first medical procurement e-commerce platform built for buyers across Saudi Arabia with complete RTL support.
+* **Almida Insure** — Automated insurance platform managing policies, customers, and claims with self-triggering follow-up systems.
+* **Mansour Bikes** — Full-featured e-commerce storefront for a premier retail bike dealer featuring live carts and automated order tracking.
+
+---
+
+## Let's Connect
+
+* **Website:** [abdullahyoussef.com](https://abdullahyoussef.com)
+* **Agency:** [snabcode.com](https://snabcode.com)
+* **Founder Portal:** [founder.snabcode.com](https://founder.snabcode.com)
+* **LinkedIn:** [linkedin.com/in/ap9ullah](https://www.linkedin.com/in/ap9ullah)
+* **GitLab:** [gitlab.com/ap9ullah](https://gitlab.com/ap9ullah)
+* **Email:** ap9ullah@gmail.com or founder@snabcode.com
+
+Open to high-impact freelance projects, agency partnerships, and ambitious engineering opportunities.
